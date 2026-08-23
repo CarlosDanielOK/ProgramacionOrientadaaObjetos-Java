@@ -1,4 +1,4 @@
-package Universidad;
+package universidad;
 
 public class Ejercicio1 {
     void main() {

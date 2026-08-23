@@ -1,4 +1,4 @@
-package ComoProgramarEnJava;
+package comoprogramarenjava;
 
 import java.util.Scanner;
 
